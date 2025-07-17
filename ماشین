@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>ماشین‌های معروف</title>
+  <style>
+    body { font-family: sans-serif; background-color: #f4f4f4; text-align: center; }
+    img { width: 300px; margin: 15px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>ماشین‌های معروف جهان</h1>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2018_Ford_Mustang_GT_5.0.jpg/640px-2018_Ford_Mustang_GT_5.0.jpg" alt="Ford Mustang">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Audi_R8_V10_Plus.jpg/640px-Audi_R8_V10_Plus.jpg" alt="Audi R8">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ferrari_488_Pista_IMG_2769.jpg/640px-Ferrari_488_Pista_IMG_2769.jpg" alt="Ferrari 488">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lamborghini_Aventador_LP700-4.jpg/640px-Lamborghini_Aventador_LP700-4.jpg" alt="Lamborghini Aventador">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2017_Porsche_911_Carrera_S_Coupe_3.0.jpg/640px-2017_Porsche_911_Carrera_S_Coupe_3.0.jpg" alt="Porsche 911">
+
+</body>
+</html>
